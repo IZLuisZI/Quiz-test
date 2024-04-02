@@ -1,0 +1,119 @@
+{
+  "questions": [
+    {
+      "question": "What is the name of the main protagonist in The Legend of Zelda series?",
+      "choices": ["Link", "Zelda", "Ganondorf", "Impa"],
+      "correctAnswer": "Link"
+    },
+    {
+      "question": "Which princess does Link often rescue in The Legend of Zelda games?",
+      "choices": [
+        "Princess Peach",
+        "Princess Daisy",
+        "Princess Zelda",
+        "Princess Rosalina"
+      ],
+      "correctAnswer": "Princess Zelda"
+    },
+    {
+      "question": "What is the name of the legendary sword wielded by Link?",
+      "choices": ["Master Sword", "Excalibur", "Frostmourne", "Buster Sword"],
+      "correctAnswer": "Master Sword"
+    },
+    {
+      "question": "Who is the main antagonist in The Legend of Zelda series?",
+      "choices": ["Bowser", "Ganondorf", "Sephiroth", "Dracula"],
+      "correctAnswer": "Ganondorf"
+    },
+    {
+      "question": "What is the name of the princess in The Legend of Zelda series?",
+      "choices": ["Zelda", "Link", "Ganondorf", "Impa"],
+      "correctAnswer": "Zelda"
+    },
+    {
+      "question": "What is the name of the kingdom where most of the Zelda games take place?",
+      "choices": ["Hyrule", "Mushroom Kingdom", "Skyloft", "Kakariko Village"],
+      "correctAnswer": "Hyrule"
+    },
+    {
+      "question": "What is the name of Link's fairy companion in Ocarina of Time?",
+      "choices": ["Navi", "Tatl", "Midna", "Fi"],
+      "correctAnswer": "Navi"
+    },
+    {
+      "question": "In which year was the first Legend of Zelda game released?",
+      "choices": ["1985", "1990", "1995", "2000"],
+      "correctAnswer": "1985"
+    },
+    {
+      "question": "What is the name of the kingdom where most of the Zelda games take place?",
+      "choices": ["Hyrule", "Mushroom Kingdom", "Skyloft", "Kakariko Village"],
+      "correctAnswer": "Hyrule"
+    },
+    {
+      "question": "Which instrument does Link use to travel through time in Majora's Mask?",
+      "choices": ["Ocarina", "Flute", "Harp", "Drums"],
+      "correctAnswer": "Ocarina"
+    },
+    {
+      "question": "What is the name of the kingdom where most of the Zelda games take place?",
+      "choices": ["Hyrule", "Mushroom Kingdom", "Skyloft", "Kakariko Village"],
+      "correctAnswer": "Hyrule"
+    },
+    {
+      "question": "What is the name of the kingdom where most of the Zelda games take place?",
+      "choices": ["Hyrule", "Mushroom Kingdom", "Skyloft", "Kakariko Village"],
+      "correctAnswer": "Hyrule"
+    },
+    {
+      "question": "What is the name of the kingdom where most of the Zelda games take place?",
+      "choices": ["Hyrule", "Mushroom Kingdom", "Skyloft", "Kakariko Village"],
+      "correctAnswer": "Hyrule"
+    },
+    {
+      "question": "What is the name of the kingdom where most of the Zelda games take place?",
+      "choices": ["Hyrule", "Mushroom Kingdom", "Skyloft", "Kakariko Village"],
+      "correctAnswer": "Hyrule"
+    },
+    {
+      "question": "What is the name of the kingdom where most of the Zelda games take place?",
+      "choices": ["Hyrule", "Mushroom Kingdom", "Skyloft", "Kakariko Village"],
+      "correctAnswer": "Hyrule"
+    },
+    {
+      "question": "What is the name of the kingdom where most of the Zelda games take place?",
+      "choices": ["Hyrule", "Mushroom Kingdom", "Skyloft", "Kakariko Village"],
+      "correctAnswer": "Hyrule"
+    },
+    {
+      "question": "What is the name of the kingdom where most of the Zelda games take place?",
+      "choices": ["Hyrule", "Mushroom Kingdom", "Skyloft", "Kakariko Village"],
+      "correctAnswer": "Hyrule"
+    },
+    {
+      "question": "What is the name of the kingdom where most of the Zelda games take place?",
+      "choices": ["Hyrule", "Mushroom Kingdom", "Skyloft", "Kakariko Village"],
+      "correctAnswer": "Hyrule"
+    },
+    {
+      "question": "In which year was the first Legend of Zelda game released?",
+      "choices": ["1985", "1990", "1995", "2000"],
+      "correctAnswer": "1985"
+    },
+    {
+      "question": "What is the name of Link's fairy companion in Ocarina of Time?",
+      "choices": ["Navi", "Tatl", "Midna", "Fi"],
+      "correctAnswer": "Navi"
+    },
+    {
+      "question": "Which instrument does Link use to travel through time in Majora's Mask?",
+      "choices": ["Ocarina", "Flute", "Harp", "Drums"],
+      "correctAnswer": "Ocarina"
+    },
+    {
+      "question": "What is the name of the kingdom where most of the Zelda games take place?",
+      "choices": ["Hyrule", "Mushroom Kingdom", "Skyloft", "Kakariko Village"],
+      "correctAnswer": "Hyrule"
+    }
+  ]
+}
