@@ -6,7 +6,7 @@ import Header from "./header.jsx";
 import Questions from "./questions.jsx";
 import Answers from "./answers.jsx";
 import StartPage from "./StartPage.jsx";
-import zeldaQuestions from "./zeldaQuestions.json";
+import zeldaQuestions from "./Questions.json";
 import ButtonAction from "./button.jsx";
 import ResultsTab from "./results.jsx";
 import "./index.css";
